@@ -1,0 +1,26 @@
+h1 {
+  display: arial, sans-serif;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+img {
+  width: 300px;
+}
+
+li {
+  padding: 36px;
+  margin: 36px;
+}
+
+.dog {
+  background-color: hsl(0, 50%, 50%);
+}
+
+.corgi {
+  background-color: hsl(120, 50%, 50%);
+}
