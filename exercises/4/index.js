@@ -1,4 +1,5 @@
-// document.querySelectorAll('li').className = "corgitype";  incorrect attempt
+// document.querySelectorAll('li').className = "corgitype";  
+// incorrect attempt? recheck with below help!!!
 
 // Exercise 4: Change the class of the lis to be "corgi" assistance from Curtis Roy
 // const liElements = document.querySelectorAll('li.dog');
