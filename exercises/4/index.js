@@ -12,7 +12,10 @@
     // li.classList.replace('dog', 'corgi');
 //});
 
+
+//  Help from Curtis
+
 document.querySelectorAll('li.dog').forEach(li => {
-     li.classList.remove('dog'); 
-     li.classList.add('corgi'); 
-    });
+    li.classList.remove('dog');
+    li.classList.add('corgi')
+});    
